@@ -1,4 +1,4 @@
-# Task-7-Elevate-labs-DATA-ANALYST-INTERNSHIP
+
 
 # 📊 Task 7:  Get Basic Sales Summary from a Tiny SQLite Database using Python
 ## 🧠 Objective
